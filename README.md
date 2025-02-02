@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/Perceptron
 
 https://en.wikipedia.org/wiki/A_Logical_Calculus_of_the_Ideas_Immanent_in_Nervous_Activity
 
+https://www.youtube.com/watch?v=l-9ALe3U-Fg&t=438s&pp=ygUKcGVyY2VwdHJvbg%3D%3D
+
 ## Training a logical gate
 
 Logical Gate Being Trained: OR Gate
@@ -51,7 +53,7 @@ Labels y represent expected outputs: [0, 1, 1, 1]
    ```
    pip install -r requirements.txt
    ```
-   
+
 3. Run the code:
    ```
    python main.py
